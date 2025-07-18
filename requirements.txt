@@ -3,3 +3,5 @@ pandas
 boto3
 sagemaker
 jupyter
+matplotlib
+scipy
